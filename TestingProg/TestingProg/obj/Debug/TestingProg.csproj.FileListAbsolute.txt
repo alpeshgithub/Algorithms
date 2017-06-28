@@ -1,0 +1,6 @@
+C:\Users\v-alpraj\Documents\SMIT\C#Codes\TestingProg\TestingProg\bin\Debug\TestingProg.exe.config
+C:\Users\v-alpraj\Documents\SMIT\C#Codes\TestingProg\TestingProg\bin\Debug\TestingProg.exe
+C:\Users\v-alpraj\Documents\SMIT\C#Codes\TestingProg\TestingProg\bin\Debug\TestingProg.pdb
+C:\Users\v-alpraj\Documents\SMIT\C#Codes\TestingProg\TestingProg\obj\Debug\TestingProg.csprojResolveAssemblyReference.cache
+C:\Users\v-alpraj\Documents\SMIT\C#Codes\TestingProg\TestingProg\obj\Debug\TestingProg.exe
+C:\Users\v-alpraj\Documents\SMIT\C#Codes\TestingProg\TestingProg\obj\Debug\TestingProg.pdb
